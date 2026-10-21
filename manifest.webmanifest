@@ -1,0 +1,25 @@
+{
+  "name": "My Vault — สมุดส่วนตัว",
+  "short_name": "My Vault",
+  "description": "สมุดข้อมูลส่วนตัวที่เก็บข้อมูลในอุปกรณ์และเข้ารหัสด้วยรหัสผ่าน",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0E110D",
+  "theme_color": "#0E110D",
+  "lang": "th",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
